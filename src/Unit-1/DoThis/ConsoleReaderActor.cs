@@ -34,6 +34,5 @@ namespace WinTail
             // continue reading messages from the console
             Self.Tell("continue");
         }
-
     }
 }
